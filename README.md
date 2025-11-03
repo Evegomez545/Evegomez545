@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/3f7OqVq.gif" width="100%" alt="banner aesthetic"/>
 
-# 🌷 Oi, eu sou a Evelyn Gomes 🌙  
+# 🌷 Oi, eu sou Evelyn Gomes 🌙  
 💻 Estudante e desenvolvedora em formação, explorando diferentes áreas da tecnologia — com foco atual em **desenvolvimento web** e aprimoramento das minhas habilidades técnicas.
 
 ---
