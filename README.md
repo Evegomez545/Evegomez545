@@ -3,7 +3,7 @@
 
 
 #  Oi, eu sou Evelyn Gomes   
-💻 Estudante e desenvolvedora em formação, explorando diferentes áreas da tecnologia — com foco atual em **desenvolvimento web** e aprimoramento das minhas habilidades técnicas.
+💻 Estudante e desenvolvedora em formação, explorando diferentes áreas da tecnologia, com foco atual em **desenvolvimento web** e aprimoramento das minhas habilidades técnicas.
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### 🌸 Um pouco sobre mim:
 ✨ Curiosa por natureza, gosto de aprender, criar e transformar ideias em projetos reais.  
-🎨 Adoro unir **tecnologia e estética** — deixando o que é funcional também bonito.  
+🎨 Adoro unir **tecnologia e estética** , deixando o que é funcional também bonito.  
 🌱 Atualmente estudando e aperfeiçoando minhas habilidades em **JavaScript e React**.  
 
 ---
