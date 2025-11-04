@@ -16,10 +16,10 @@
 
 ---
 
-### 🌸 Um pouco sobre mim:
-✨ Curiosa por natureza, gosto de aprender, criar e transformar ideias em projetos reais.  
-🎨 Adoro unir **tecnologia e estética** , deixando o que é funcional também bonito.  
-🌱 Atualmente estudando e aperfeiçoando minhas habilidades em **JavaScript e React**.  
+###  Um pouco sobre mim:
+✨ Profissional proativa e orientada para resultados, com um forte impulso para aprendizado contínuo e a capacidade de converter ideias em soluções e projetos funcionais .  
+✨ Busco a integração harmoniosa entre funcionalidade técnica e excelência em design, garantindo que as soluções sejam não apenas robustas, mas também visualmente atraentes e focadas na experiência do usuário.  
+✨ Atualmente em aprimoramento contínuo de hard skills, especializando-me em desenvolvimento front-end com foco em JavaScript e React**.  
 
 ---
 
