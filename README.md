@@ -4,7 +4,8 @@
 
 #  Evelyn Gomes   
 💻 Estudante e desenvolvedora em formação, explorando diferentes áreas da tecnologia, com foco atual em **desenvolvimento web** e aprimoramento das minhas habilidades técnicas.
-
+Veja meu Portfólio
+https://evegomez545.github.io/Portifolio/
 ---
 
 ### 💫 Tecnologias que estudo:
