@@ -28,8 +28,6 @@
 
 ---
 
----
----
 
 ###  Um pouco sobre mim:
 ✨ Profissional proativa e orientada para resultados, com um forte impulso para aprendizado contínuo e a capacidade de converter ideias em soluções e projetos funcionais .  
